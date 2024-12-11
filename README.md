@@ -93,7 +93,7 @@ D) By checking the Programs and Features in Control Panel
 
 answer:A) By running python --version
 
-What command is used to install pip on macOS and Linux?
+-- What command is used to install pip on macOS and Linux?
 
 A) sudo install pip
 
